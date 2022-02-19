@@ -1,2 +1,2 @@
 # PCA
-Implementation of PCA using python
+This code implements the PCA using python
